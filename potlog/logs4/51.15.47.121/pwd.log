@@ -1,0 +1,11 @@
+180304-12:40:54 root:root 
+180304-12:40:56 root:1234 
+180304-12:40:57 admin:1234 
+180304-12:40:58 admin:admin 
+180304-12:41:00 root:admin 
+180304-12:41:01 admin:root 
+180304-12:41:03 root:toor 
+180304-12:41:05 admin:password 
+180304-12:41:06 pi:raspberry 
+180304-12:41:07 pi:pi 
+180304-12:41:09 vagrant:vagrant 

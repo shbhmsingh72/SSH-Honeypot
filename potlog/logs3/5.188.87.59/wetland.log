@@ -1,0 +1,24 @@
+180302-05:00:46 login login successful 
+180302-05:00:47 direct_request ori:(u'::1', 22832), dest:(u'ya.ru', 443) 
+180302-06:27:48 login login successful 
+180302-06:27:48 direct_request ori:(u'::1', 17051), dest:(u'ya.ru', 443) 
+180302-07:14:38 direct_request ori:(u'::1', 40864), dest:(u'google.com', 80) 
+180302-07:14:38 direct_request ori:(u'::1', 48442), dest:(u'sapi.rsocks.net', 80) 
+180302-08:00:46 login login successful 
+180302-08:00:46 direct_request ori:(u'::1', 48057), dest:(u'ya.ru', 443) 
+180302-09:50:38 direct_request ori:(u'::1', 42721), dest:(u'google.com', 80) 
+180302-09:50:39 direct_request ori:(u'::1', 26215), dest:(u'sapi.rsocks.net', 80) 
+180302-11:00:47 login login successful 
+180302-11:00:47 direct_request ori:(u'::1', 28274), dest:(u'ya.ru', 443) 
+180302-14:00:48 login login successful 
+180302-14:00:49 direct_request ori:(u'::1', 41338), dest:(u'ya.ru', 443) 
+180302-14:27:39 direct_request ori:(u'::1', 17403), dest:(u'google.com', 80) 
+180302-14:27:40 direct_request ori:(u'::1', 15876), dest:(u'sapi.rsocks.net', 80) 
+180302-14:56:53 direct_request ori:(u'::1', 11711), dest:(u'google.com', 80) 
+180302-14:56:53 direct_request ori:(u'::1', 36686), dest:(u'sapi.rsocks.net', 80) 
+180302-17:00:30 direct_request ori:(u'::1', 27358), dest:(u'google.com', 80) 
+180302-17:00:31 direct_request ori:(u'::1', 43404), dest:(u'sapi.rsocks.net', 80) 
+180302-19:19:49 direct_request ori:(u'::1', 12630), dest:(u'google.com', 80) 
+180302-19:19:49 direct_request ori:(u'::1', 41037), dest:(u'sapi.rsocks.net', 80) 
+180303-05:00:50 login login successful 
+180303-05:00:50 direct_request ori:(u'::1', 21543), dest:(u'ya.ru', 443) 

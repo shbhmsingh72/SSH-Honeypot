@@ -1,0 +1,16 @@
+180302-01:53:04 login login successful 
+180302-01:53:04 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-05:19:51 login login successful 
+180302-05:19:53 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-08:45:27 login login successful 
+180302-08:45:27 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-12:10:09 login login successful 
+180302-12:10:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-15:36:23 login login successful 
+180302-15:36:24 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-19:03:02 login login successful 
+180302-19:03:02 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-22:29:18 login login successful 
+180302-22:29:19 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180303-01:55:34 login login successful 
+180303-01:55:35 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 

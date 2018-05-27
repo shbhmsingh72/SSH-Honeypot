@@ -1,0 +1,36 @@
+180302-01:41:18 login login successful 
+180302-01:41:18 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-02:49:10 login login successful 
+180302-02:49:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-03:57:11 login login successful 
+180302-03:57:12 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-05:05:15 login login successful 
+180302-05:05:15 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-06:13:12 login login successful 
+180302-06:13:12 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-07:21:17 login login successful 
+180302-07:21:17 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-08:29:08 login login successful 
+180302-08:29:08 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-09:33:02 login login successful 
+180302-09:33:03 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-10:41:10 login login successful 
+180302-10:41:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-11:49:10 login login successful 
+180302-11:49:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-12:57:18 login login successful 
+180302-12:57:19 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-14:01:08 login login successful 
+180302-14:01:08 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-15:09:16 login login successful 
+180302-15:09:16 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-16:13:11 login login successful 
+180302-16:13:12 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-17:21:05 login login successful 
+180302-17:21:05 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-18:29:10 login login successful 
+180302-18:29:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-19:37:10 login login successful 
+180302-19:37:10 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 
+180302-20:45:07 login login successful 
+180302-20:45:07 direct_request ori:(u'localhost', 0), dest:(u'ya.ru', 443) 

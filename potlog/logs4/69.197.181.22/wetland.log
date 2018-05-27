@@ -1,0 +1,32 @@
+180305-15:56:54 login login successful 
+180305-15:57:54 login login successful 
+180305-15:58:55 login login successful 
+180305-18:51:20 login login successful 
+180305-18:52:22 login login successful 
+180305-18:53:23 login login successful 
+180305-18:53:58 direct_request ori:(u'0.0.0.0', 0), dest:(u'34.206.181.162', 80) 
+180305-20:39:45 login login successful 
+180305-20:40:48 login login successful 
+180305-20:41:28 direct_request ori:(u'0.0.0.0', 0), dest:(u'52.55.185.218', 80) 
+180305-20:42:31 login login successful 
+180305-23:31:19 login login successful 
+180305-23:31:21 direct_request ori:(u'0.0.0.0', 0), dest:(u'54.164.226.37', 80) 
+180305-23:32:23 login login successful 
+180305-23:33:25 login login successful 
+180306-01:49:50 login login successful 
+180306-01:50:56 login login successful 
+180306-01:52:01 login login successful 
+180306-04:05:18 login login successful 
+180306-04:06:22 login login successful 
+180306-04:06:27 direct_request ori:(u'0.0.0.0', 0), dest:(u'34.206.181.162', 80) 
+180306-04:07:31 login login successful 
+180306-04:07:58 direct_request ori:(u'0.0.0.0', 0), dest:(u'52.200.121.225', 80) 
+180306-04:59:45 login login successful 
+180306-04:59:54 direct_request ori:(u'0.0.0.0', 0), dest:(u'34.196.2.232', 80) 
+180306-05:00:57 login login successful 
+180306-05:01:58 login login successful 
+180306-06:57:15 login login successful 
+180306-06:57:26 direct_request ori:(u'0.0.0.0', 0), dest:(u'35.153.81.9', 80) 
+180306-06:58:11 direct_request ori:(u'0.0.0.0', 0), dest:(u'34.236.198.62', 80) 
+180306-06:58:28 login login successful 
+180306-06:59:19 direct_request ori:(u'0.0.0.0', 0), dest:(u'52.72.46.38', 80) 

@@ -1,0 +1,4 @@
+180304-19:45:41 login login successful 
+180304-19:45:42 channel_request session 
+180304-19:45:43 exec_request success 
+180304-19:45:43 exec command uname -s 

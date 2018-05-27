@@ -1,0 +1,10 @@
+180302-05:00:51 login login successful 
+180302-05:00:51 direct_request ori:(u'::1', 45672), dest:(u'ya.ru', 443) 
+180302-06:29:53 login login successful 
+180302-06:29:53 direct_request ori:(u'::1', 28508), dest:(u'ya.ru', 443) 
+180302-08:00:51 login login successful 
+180302-08:00:51 direct_request ori:(u'::1', 30486), dest:(u'ya.ru', 443) 
+180302-11:00:51 login login successful 
+180302-11:00:52 direct_request ori:(u'::1', 45656), dest:(u'ya.ru', 443) 
+180302-14:00:52 login login successful 
+180302-14:00:52 direct_request ori:(u'::1', 28407), dest:(u'ya.ru', 443) 

